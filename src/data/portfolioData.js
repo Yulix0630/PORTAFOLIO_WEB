@@ -15,10 +15,10 @@ import projectPlaceholder from '../assets/images/project-placeholder.svg'
 // PERFIL: información principal que aparece en la sección Hero
 // ----------------------------------------------------------------------------
 export const profileData = {
-  name: 'Juan Pérez',
+  name: 'Carlos Molina',
   title: 'Ingeniero de Software',
-  tagline: 'Construyo aplicaciones web robustas, desde la base de datos hasta la interfaz.',
-  location: 'Bogotá, Colombia',
+  tagline: 'Estoy comenzando en esto de la ingeniería, pero tengo muchas ganas de aprender y crecer profesionalmente.',
+  location: 'Baranoa, Atlántico, Colombia',
   // Para usar tu propia foto: reemplaza el archivo en src/assets/images/profile-placeholder.svg
   // (o agrega tu foto, ej. profile.jpg, e impórtala arriba y úsala aquí).
   photo: profilePlaceholder,
@@ -28,9 +28,9 @@ export const profileData = {
 // REDES SOCIALES Y CONTACTO: se usan en el Hero, la sección Contacto y el Footer
 // ----------------------------------------------------------------------------
 export const socialLinks = {
-  linkedin: 'https://linkedin.com/in/tu-usuario',
-  github: 'https://github.com/tu-usuario',
-  email: 'juan.perez@example.com',
+  linkedin: 'https://linkedin.com/in/carlos-arturo-molina-tomases-a8856a124/',
+  github: 'https://github.com/Yulix0630',
+  email: 'Carlosmt67@gmail.com',
 }
 
 // ----------------------------------------------------------------------------
@@ -38,11 +38,9 @@ export const socialLinks = {
 // ----------------------------------------------------------------------------
 export const aboutData = {
   paragraph:
-    'Soy estudiante de último semestre de Ingeniería Informática, apasionado por el desarrollo web ' +
-    'y el diseño de software. Disfruto resolver problemas complejos dividiéndolos en partes simples, ' +
-    'y me interesa especialmente el desarrollo full-stack con JavaScript y Python. Actualmente busco ' +
-    'oportunidades de práctica profesional o primer empleo donde pueda seguir aprendiendo y aportar valor ' +
-    'a un equipo de desarrollo.',
+    'Soy Ingeniero de Software con experiencia en desarrollo web full stack. Especializado en ' +
+    'construir aplicaciones escalables usando React, Node.js y bases de datos modernas. ' +
+    'Apasionado por el desarrollo web y las mejores prácticas de código limpio.',
 }
 
 // ----------------------------------------------------------------------------
