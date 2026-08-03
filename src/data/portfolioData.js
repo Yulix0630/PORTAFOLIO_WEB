@@ -8,7 +8,7 @@
 // Ver README.md -> "Cómo editar tu portafolio" para ejemplos guiados.
 // ============================================================================
 
-import profilePlaceholder from '../assets/images/profile-placeholder.svg'
+import profilePlaceholder from '../assets/images/Perfil.jpg'
 import projectPlaceholder from '../assets/images/project-placeholder.svg'
 
 // ----------------------------------------------------------------------------
@@ -113,8 +113,8 @@ export const experienceData = [
     id: 1,
     type: 'work',
     role: 'Auxiliar de Sistemas',
-    place: 'TEducation HUB.',
-    period: '16 de Marzo de 2015 - 8 de Octubre de 2015 - 16 de Marzo de 2016 - 15 de Agosto de 2017',
+    place: 'Education HUB.',
+    period: '16 de Marzo de 2015 - 8 de Octubre de 2015 ; 16 de Marzo de 2016 - 15 de Agosto de 2017',
     description:
       'Mantenimiento y reparacion de equipos de cómputo. ' +
       'Puesta a punto de equipos audiovisuales y de computo.',
