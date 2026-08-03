@@ -38,9 +38,9 @@ export const socialLinks = {
 // ----------------------------------------------------------------------------
 export const aboutData = {
   paragraph:
-    'Soy Ingeniero de Software con experiencia en desarrollo web full stack. Especializado en ' +
-    'construir aplicaciones escalables usando React, Node.js y bases de datos modernas. ' +
-    'Apasionado por el desarrollo web y las mejores prácticas de código limpio.',
+    'Estudiante de Ingeniería de Sistemas apasionado por el desarrollo de software y la gestión de bases de datos. ' +
+    'Cuento con experiencia práctica en soporte técnico de TICs, infraestructura y gestión administrativa. ' +
+    'Enfocado en crear aplicaciones web funcionales y optimizar procesos mediante Python, React y bases de datos SQL.',
 }
 
 // ----------------------------------------------------------------------------
@@ -49,17 +49,17 @@ export const aboutData = {
 // Agrega o quita objetos de este array para actualizar la sección.
 // ----------------------------------------------------------------------------
 export const skillsData = [
-  { name: 'JavaScript', icon: '🟨' },
+  { name: 'Gestión Contable / Excel', icon: '🟨' },
   { name: 'React', icon: '⚛️' },
   { name: 'Node.js', icon: '🟢' },
   { name: 'Python', icon: '🐍' },
-  { name: 'HTML5', icon: '🧱' },
-  { name: 'CSS / Tailwind', icon: '🎨' },
+  { name: 'Sistemas Operativos (Win/Linux)', icon: '🧱' },
+  { name: 'Mesa de Ayuda (Help Desk)', icon: '🎨' },
   { name: 'Git y GitHub', icon: '🔧' },
   { name: 'SQL', icon: '🗄️' },
   { name: 'Java', icon: '☕' },
   { name: 'Docker', icon: '🐳' },
-  { name: 'Linux', icon: '🐧' },
+  { name: 'Soporte TIC & Redes', icon: '🐧' },
   { name: 'Trabajo en equipo', icon: '🤝' },
 ]
 
@@ -112,39 +112,38 @@ export const experienceData = [
   {
     id: 1,
     type: 'work',
-    role: 'Practicante de Desarrollo de Software',
-    place: 'Tech Solutions S.A.S.',
-    period: '2025 - Actualidad',
+    role: 'Auxiliar de Sistemas',
+    place: 'TEducation HUB.',
+    period: '16 de Marzo de 2015 - 8 de Octubre de 2015 - 16 de Marzo de 2016 - 15 de Agosto de 2017',
     description:
-      'Desarrollo de módulos frontend en React y mantenimiento de endpoints REST existentes. ' +
-      'Participación en revisiones de código y ceremonias ágiles (daily, retro, planning).',
+      'Mantenimiento y reparacion de equipos de cómputo. ' +
+      'Puesta a punto de equipos audiovisuales y de computo.',
   },
   {
     id: 2,
     type: 'education',
-    role: 'Ingeniería Informática',
-    place: 'Universidad Colegio Mayor de Cundinamarca',
-    period: '2021 - 2026',
+    role: 'Técnico en Documentación y registro de operaciones contables.',
+    place: 'Servicio Nacional de Aprendizaje SENA.',
+    period: '2016',
     description:
-      'Formación en desarrollo de software, bases de datos, estructuras de datos y arquitectura ' +
-      'de aplicaciones web.',
+      'Formación en auxiliar de registro de operaciones contables. ' +
+      'Conocimientos en excel.',
   },
   {
     id: 3,
     type: 'work',
-    role: 'Freelance - Desarrollo de sitios web',
-    place: 'Proyectos independientes',
-    period: '2023 - 2024',
-    description:
-      'Creación de sitios web para pequeños negocios locales usando HTML, CSS, JavaScript y WordPress.',
+    role: 'Auxiliar de TIC´s (Practicas)',
+    place: 'SuperBrix S.A.',
+    period: '9 de Enero del 2018 - 16 de Julio de 2018',
+    description:'Registro de información en el sistema de la empresa, mantenimiento de equipos de cómputo y soporte técnico a los usuarios.',
   },
   {
     id: 4,
-    type: 'education',
-    role: 'Curso de Desarrollo Web Full Stack',
-    place: 'Plataforma en línea',
-    period: '2022',
-    description: 'Curso intensivo de 6 meses sobre desarrollo web con JavaScript, React y Node.js.',
+    type: 'work',
+    role: 'Auxiliar contable y Técnico en sistemas',
+    place: 'Todo electrico Tavo',
+    period: '2019 - Actualidad',
+    description: 'Registro de información contable y financiera, mantenimiento de equipos de cómputo y soporte técnico a los usuarios.',
   },
 ]
 
@@ -152,7 +151,7 @@ export const experienceData = [
 // CONTACTO: se usa en la sección Contacto (formulario -> mailto) y el Footer.
 // ----------------------------------------------------------------------------
 export const contactData = {
-  email: 'juan.perez@example.com',
-  phone: '+57 300 123 4567',
+  email: 'carlosmt67@gmail.com',
+  phone: '+57 323 331 8962',
   availability: 'Disponible para prácticas profesionales y proyectos freelance',
 }
