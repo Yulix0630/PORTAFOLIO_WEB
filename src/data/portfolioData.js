@@ -71,12 +71,13 @@ export const skillsData = [
 export const projectsData = [
   {
     id: 1,
-    title: 'Gestor de Tareas Colaborativo',
+    title: 'Sistema de Gestión Help Desk',
     description:
-      'Aplicación web para crear y organizar tareas en equipo, con tableros estilo Kanban, ' +
-      'arrastrar y soltar, y notificaciones en tiempo real.',
+      'Plataforma web para la gestión e itinerancia de tickets de soporte técnico' +
+      'Incluye tableros de control para análisis de tiempos de respuesta,' +
+      'categorización de incidencias y métricas operativas.',
     image: projectPlaceholder,
-    technologies: ['React', 'Node.js', 'Express', 'MongoDB'],
+    technologies: ['Python', 'SQL', 'HTML/CSS', 'Lógica / Análisis'],
     repoUrl: 'https://github.com/tu-usuario/gestor-tareas',
     demoUrl: 'https://gestor-tareas-demo.vercel.app',
   },
