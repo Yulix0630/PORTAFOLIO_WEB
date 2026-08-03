@@ -8,7 +8,7 @@
 // Ver README.md -> "Cómo editar tu portafolio" para ejemplos guiados.
 // ============================================================================
 
-import profilePlaceholder from '../assets/images/Perfil.jpg'
+import profilePlaceholder from '../assets/images/perfil.jpg'
 import projectPlaceholder from '../assets/images/project-placeholder.svg'
 
 // ----------------------------------------------------------------------------
