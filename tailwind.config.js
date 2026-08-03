@@ -10,9 +10,10 @@ export default {
       // Ver README.md -> "Cómo cambiar los colores".
       colors: {
         primary: {
-          DEFAULT: '#2563EB', // azul principal
-          light: '#60A5FA',
-          dark: '#1E40AF',
+        DEFAULT: '#4F46E5',
+        light: '#818CF8',
+        dark: '#3730A3',
+},
         },
         secondary: {
           DEFAULT: '#0EA5E9',
